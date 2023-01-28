@@ -129,6 +129,9 @@ color:#8c1aff;
   table {
     width: 90%;
   }
+  input[type="text"] {
+    width: 100%;
+  }
 
   #search {
     width: 90%;
