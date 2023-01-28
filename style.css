@@ -83,6 +83,7 @@ th {
 table {
   width: 100%;
   border-collapse: collapse;
+  font-size: 23px;
 }
 
 th, td {
@@ -98,14 +99,17 @@ th {
   background-color: #302b3f; /* light gray */
 }
 
+
 #h{
-  color: yellow;
-  font-size: 20px;
-  display: flex;
+color: yellow;
+text-align: flex;
+font-size: 15px;
 }
+
 #sor:hover{
-  cursor: pointer;
-  color: #8c1aff;
+cursor:pointer;
+color:#8c1aff;
+
 }
 #search {
   width: 48%;
